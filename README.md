@@ -1,3 +1,3 @@
 # Momentum Cloning
 
-Javascript, CSS, HTML
+Vanilla JS, CSS, HTML
